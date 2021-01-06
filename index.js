@@ -1,13 +1,13 @@
 function ServidorDeFirebase(){
     this.firebaseConfig = {
-            apiKey: "AIzaSyCrFbPHJizkQbb3IEPf_DyNjwcwZCD7NpM",
-            authDomain: "calculadoradeindice.firebaseapp.com",
-            databaseURL: "https://calculadoradeindice.firebaseio.com/",
-            projectId: "calculadoradeindice",
-            storageBucket: "calculadoradeindice.appspot.com",
-            messagingSenderId: "180634225139",
-            appId: "1:180634225139:web:c4300eb226ca6f4db46a86",
-            measurementId: "G-7DG9TX7RN9"
+            apiKey: "123456789abcdefghijklmnop",
+            authDomain: "domain",
+            databaseURL: "",
+            projectId: "",
+            storageBucket: "",
+            messagingSenderId: "",
+            appId: "6",
+            measurementId: ""
     };
     this.usuarioActual = null;
     this.datos = null;
