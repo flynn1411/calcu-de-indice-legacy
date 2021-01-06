@@ -1,4 +1,4 @@
-# flynn1411.github.io
+# Calculadora de Indice (versión legacy)
 
 Aplicación Web que calcula el indice académico universitario.
 
